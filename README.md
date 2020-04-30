@@ -5,6 +5,8 @@ The main motivation behind this simple shiny app is to make it easier to locate 
 ## Data:
 Data for the blood bank application is sourced from [BRITISH COLUMBIA DATA CATALOGUE](https://catalogue.data.gov.bc.ca/dataset/hospitals-in-bc). The original data is available as a csv file called "hlbc_hospitals (updated Till 28th April)". 
 
+SourceCode of the App is locaded on [GitHub](https://github.com/neelok/BC_Hospitals)
+
 
 
 ## Data limitation
